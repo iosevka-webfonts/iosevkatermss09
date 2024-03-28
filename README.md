@@ -1,4 +1,4 @@
-# Iosevkatermss09 WebFont 29.0.3
+# Iosevkatermss09 WebFont 29.0.4
 
 ## How to use
 
